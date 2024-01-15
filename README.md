@@ -1,4 +1,4 @@
-## 9-hafta-ici-Yemek-Sitesi
+## Rastauran Website Gif
 
 -HTML, CSS ve JS kullanılarak tasarlanan çok sayfalı  site.
 
